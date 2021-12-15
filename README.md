@@ -1,2 +1,6 @@
 # Public-Hunting-KY
-A map of Kentucky and its hunting zones with public land use
+## A Map of Public Hunting Grounds in Kentucky
+![Display image of Public Hunting Ground in Kentucky](PublicHuntingGroundinKentucky.jpg)
+
+Using data provided by Kygeoportal and KY Fish and Wildlife.
+EPSG:3089
